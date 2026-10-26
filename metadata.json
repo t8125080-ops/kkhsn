@@ -1,0 +1,8 @@
+{
+  "name": "Remix Ultimate AI YouTube Thumbnail Generator",
+  "description": "AI-powered SaaS platform for generating high-CTR YouTube thumbnails, complete with automated prompt generation, title analysis, image manipulation, rich visual editor, CTR clickability scoring, dashboard, and templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
